@@ -11,6 +11,7 @@ ul {
 h1 {
 	color: #3e4444;
 	font-size: 50px;
+	text-align: right;
 }
 
 html {
@@ -27,6 +28,7 @@ body {
 }
 
 #mainImage {
+	display: block;
 	margin: 0 auto;
 	width: 75%;
 }
