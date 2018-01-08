@@ -1,5 +1,21 @@
 p {
 	color: #3e4444;
 	width: 500px;
-	border: 2px solid #3e4444;
+	border: 1px dashed #3e4444;
+	padding: 2px;
+}
+
+ul {
+	color: #3e4444;
+}
+
+h1 {
+	color: #3e4444;
+	font-size: 50px;
+
+}
+
+body {
+	background-color: #e6e2d3;
+	font-family: Arial, Helvetica, sans-serif
 }
