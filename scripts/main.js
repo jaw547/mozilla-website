@@ -8,3 +8,11 @@
  
  // Assign the function to the onclick event on that element
  dogImage.onclick = sayOuch;
+
+ //Toggle code.
+
+ $( "#clickMe" ).click(function() {
+ 	$( "#mainImage" ).toggle("slow", function() {
+ 		// Animation complete.
+ 	});
+ });
