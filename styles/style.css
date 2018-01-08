@@ -1,8 +1,6 @@
 p {
 	color: #3e4444;
 	width: 500px;
-	border: 1px dashed #3e4444;
-	padding: 2px;
 }
 
 ul {
@@ -15,7 +13,7 @@ h1 {
 
 }
 
-body {
+html {
 	background-color: #e6e2d3;
 	font-family: "Open Sans", sans-serif;
 }
