@@ -2,10 +2,13 @@ p {
 	color: #3e4444;
 	width: 90%;
 	margin: 0 auto;
+	margin-bottom: 1em;
 }
 
 ul {
 	color: #3e4444;
+	margin-left: 1em;
+	width: 90%;
 }
 
 h1 {
@@ -30,5 +33,6 @@ body {
 #mainImage {
 	display: block;
 	margin: 0 auto;
+	padding-bottom: 15px;
 	width: 75%;
 }
