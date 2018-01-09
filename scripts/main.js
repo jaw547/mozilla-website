@@ -10,7 +10,6 @@
  dogImage.onclick = sayOuch;
 
  //Toggle code.
-
  $( "#clickMe" ).click(function() {
  	$( "#mainImage" ).toggle("slow", function() {
  		// Animation complete.
